@@ -1,0 +1,6 @@
+    .reszta {width: 700px; font-family: Palatino; margin: 8px; padding: 10px; font-weight: "bold"; font-size: 17px; background-image: url(https://t4.ftcdn.net/jpg/00/92/19/05/240_F_92190576_iMrIydxOpiGNygMcEQU7LOAP1C3rdGOB.jpg); border-radius: 8px; }
+	#wstęp {text-align: center; padding-left: 250px; padding-right: 250px; font-weight: bold;}
+	body { background-image: url(https://cdn.hipwallpaper.com/i/6/41/DE1H64.jpg); padding: 0px; margin: 0px;}
+	h1 { text-align: center; font-style: oblique; background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Pantheon_panorama%2C_Rome.jpg/1920px-Pantheon_panorama%2C_Rome.jpg); padding: 50px; position: relative; top: -32px; background-position: center top; color: white; font-size: 50px; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;}
+	h2 { margin: 8px; font-style: italic; font-family: Arial;}
+	img { position: absolute; right: 1px; top: 555px; padding: 5px;}
